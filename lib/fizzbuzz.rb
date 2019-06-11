@@ -10,4 +10,5 @@ def fizzbuzz(number)
     end
 end
 
-(1..100).each { |num| puts fizzbuzz(num) }
+# test below:
+# (1..100).each { |num| puts fizzbuzz(num) }
